@@ -11,5 +11,5 @@ How it works?
 xImSergi05 
 Tasks: Create classes and implemented on Pablo's code, error controls
 
-Pablo
+pabloabaad25
 Tasks: Logic of the game, the grid, check winner
