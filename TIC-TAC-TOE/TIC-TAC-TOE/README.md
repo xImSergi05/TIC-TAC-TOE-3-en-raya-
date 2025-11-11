@@ -1,5 +1,5 @@
-Game Name: 3 en ralla
-Made by: xImSergi05 and Pablo
+Game Name: 3 en raya
+Made by: xImSergi05 and pabloabaad25
 How it works?
 1. Game that requires 2 player: X and O
 2. The table is a 3x3 grid, numbered from 1 to 9 to make easy to introduce the movements
